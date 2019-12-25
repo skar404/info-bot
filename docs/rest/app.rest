@@ -1,0 +1,7 @@
+###
+GET {{host}}/ping
+
+###
+POST {{host}}/bot:{{secret}}
+
+###
